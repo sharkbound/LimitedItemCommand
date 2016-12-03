@@ -8,11 +8,11 @@ namespace LimitedItemCommand
 {
     public class Config : IRocketPluginConfiguration 
     {
-        public int SpawningLimit;
+        public string placeHolder;
 
         public void LoadDefaults()
         {
-            SpawningLimit = 30;
+            placeHolder = "placeholder";
         }
     }
 }

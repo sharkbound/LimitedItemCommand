@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using Rocket.Core.Plugins;
 using Rocket.Core.Commands;
+using Rocket.Unturned;
 
 namespace LimitedItemCommand
 {
@@ -14,7 +15,7 @@ namespace LimitedItemCommand
         {
             Instance = this;
             Log("LimitedItemCommand Has Loaded!");
-            Log("Current spawning limit: " + Configuration.Instance.SpawningLimit.ToString());
+            Log("Current spawning limit: " + U.Settings.Instance.MaxSpawnAmount.ToString());
         }
 
         protected override void Unload()
@@ -28,7 +29,7 @@ namespace LimitedItemCommand
             {
                 return new Rocket.API.Collections.TranslationList
                 {
-                    {"giving_console", "Giving [{0}] x{1} of item {2} ({3})"},
+                    {"giving_console", "Giving '{0}' {1}x of {2} ({3})"},
                     {"giving_failed", "Failed to find a item matching id or name '{0}'"}
                 };
             }
