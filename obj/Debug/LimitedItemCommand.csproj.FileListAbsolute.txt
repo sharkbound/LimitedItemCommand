@@ -1,0 +1,11 @@
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\LimitedItemCommand\LimitedItemCommand\bin\Debug\LimitedItemCommand.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\LimitedItemCommand\LimitedItemCommand\bin\Debug\LimitedItemCommand.pdb
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\LimitedItemCommand\LimitedItemCommand\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\LimitedItemCommand\LimitedItemCommand\bin\Debug\Assembly-CSharp.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\LimitedItemCommand\LimitedItemCommand\bin\Debug\Rocket.API.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\LimitedItemCommand\LimitedItemCommand\bin\Debug\Rocket.Core.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\LimitedItemCommand\LimitedItemCommand\bin\Debug\Rocket.Unturned.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\LimitedItemCommand\LimitedItemCommand\bin\Debug\UnityEngine.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\LimitedItemCommand\LimitedItemCommand\obj\Debug\LimitedItemCommand.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\LimitedItemCommand\LimitedItemCommand\obj\Debug\LimitedItemCommand.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\LimitedItemCommand\LimitedItemCommand\obj\Debug\LimitedItemCommand.pdb
